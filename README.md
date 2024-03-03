@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React,Vue and Advance Laravel**
 
-- 👨‍💻 All of my projects are available at [developerhammad.com](developerhammad.com)
+- 👨‍💻 All of my projects are available at [devhammadchohan.vercel.app](devhammadchohan.vercel.app)
 
 - 💬 Ask me about **Laravel,PHP,SQL, HTML5, CSS3, Bootstrap, JS**
 
 - 📫 How to reach me **chohanhammadali@gmail.com**
 
-- 📄 Know about my experiences [developerhammad.com](developerhammad.com)
+- 📄 Know about my experiences [devhammadchohan.vercel.app](devhammadchohan.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
