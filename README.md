@@ -1,34 +1,49 @@
-<h1 align="center">Hi 👋, I'm Hammad Chohan</h1>
-<h3 align="center">A passionate Full-Stack Developer From Pakistan</h3>
+# Hi, I'm Hammad Chohan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadchohan65&label=Profile%20views&color=0e75b6&style=flat" alt="hammadchohan65" /> </p>
+### Senior Backend Engineer | PHP & Laravel Specialist
 
-<p align="left"> <a href="https://twitter.com/hammadchohan66" target="blank"><img src="https://img.shields.io/twitter/follow/hammadchohan66?logo=twitter&style=for-the-badge" alt="hammadchohan66" /></a> </p>
+I design and build reliable backend systems, RESTful APIs, third-party integrations, and relational database workflows. My focus is on turning real-world business requirements—such as ERP modules, invoicing ledgers, and e-commerce data retrieval—into clean, predictable code.
 
-- 🌱 I’m currently learning **React,Vue and Advance Laravel**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-chohan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://devhammadchohan.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chohanhammadali@gmail.com)
 
-- 👨‍💻 All of my projects are available at [devhammadchohan.vercel.app](devhammadchohan.vercel.app)
+---
 
-- 💬 Ask me about **Laravel,PHP,SQL, HTML5, CSS3, Bootstrap, JS**
+### 🛠️ Core Engineering Focus
 
-- 📫 How to reach me **chohanhammadali@gmail.com**
+- **Backend Architecture & APIs:** PHP 8.x, Laravel (Eloquent, Sanctum, Queues, Jobs, Workers, Scheduled Tasks), RESTful API design.
+- **Relational Databases & Data:** MySQL, PostgreSQL, Redis caching, database indexing, and query optimization.
+- **Business Systems & Workflows:** Custom ERPs, double-entry ledger tracking, batch inventory management, and automated balance reconciliation.
+- **Third-Party Integrations:** QuickBooks API, payment gateways (Stripe, PayPal, Authorize.Net, Square), and event-driven webhooks.
+- **Frontend Delivery Support:** Livewire, Blade, Next.js (ISR) & React API consumption.
 
-- 📄 Know about my experiences [devhammadchohan.vercel.app](devhammadchohan.vercel.app)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 💼 Production Experience Highlights
+
+- **Custom Chemical Business ERP:** Engineered transactional modules for Sales, Purchases, Stock, and Party Ledgers in Laravel 12 & Livewire—ensuring atomic balance consistency across bank and customer records.
+- **High-Volume E-Commerce Platform:** Improved admin-side data retrieval and slow query workflows across an environment handling 5.7M+ orders via targeted database indexing and caching.
+- **Ledgbooks Platform:** Built an invoicing and expense-management platform from requirements through to production.
+- **Legacy API Platform Recovery:** Audited an undocumented, stalled API codebase, restructured core endpoints and user flows, and unblocked ongoing delivery.
+
+---
+
+### 💻 Technologies & Tools
+Backend: PHP 8.x • Laravel • REST APIs • Livewire • Queues/Jobs
+Databases: MySQL • PostgreSQL • Redis • Database Indexing
+Integrations: QuickBooks API • Stripe • PayPal • Webhooks • n8n
+Tooling: Git • GitHub Actions (CI/CD) • Docker • Postman
+
+---
+
+### 📊 GitHub Activity
+
 <p align="left">
-<a href="https://twitter.com/hammadchohan66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadchohan66" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hammad chohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammad chohan" height="30" width="40" /></a>
-<a href="https://fb.com/hammad chohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammad chohan" height="30" width="40" /></a>
-<a href="https://instagram.com/hammadchohan655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammadchohan655" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hammad chohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hammad chohan" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadchohan65&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hammad's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadchohan65&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadchohan65&show_icons=true&locale=en&layout=compact" alt="hammadchohan65" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadchohan65&show_icons=true&locale=en" alt="hammadchohan65" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadchohan65&" alt="hammadchohan65" /></p>
+📫 **Get in touch:** [chohanhammadali@gmail.com](mailto:chohanhammadali@gmail.com) | Open to international remote backend engineering roles.
