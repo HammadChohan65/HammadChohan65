@@ -1,6 +1,6 @@
 # Hi, I'm Hammad Chohan 👋
 
-### Senior Backend Engineer | PHP & Laravel Specialist
+### Senior Backend Engineer | PHP & Laravel
 
 I design and build reliable backend systems, RESTful APIs, third-party integrations, and relational database workflows. My focus is on turning real-world business requirements—such as ERP modules, invoicing ledgers, and e-commerce data retrieval—into clean, predictable code.
 
