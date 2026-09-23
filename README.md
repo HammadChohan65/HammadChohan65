@@ -4,7 +4,7 @@
 
 I design and build reliable backend systems, RESTful APIs, third-party integrations, and relational database workflows. My focus is on turning real-world business requirements—such as ERP modules, invoicing ledgers, and e-commerce data retrieval—into clean, predictable code.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hammad-chohan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chohanhammadali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://devhammadchohan.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chohanhammadali@gmail.com)
 
@@ -37,12 +37,14 @@ Tooling: Git • GitHub Actions (CI/CD) • Docker • Postman
 
 ---
 
-### 📊 GitHub Activity
+### 📈 Profile Overview
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammadchohan65&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hammad's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadchohan65&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+| Metric | Details |
+| :--- | :--- |
+| **Primary Focus** | Backend Architecture, REST APIs & Business Systems |
+| **Primary Stack** | PHP, Laravel, MySQL, PostgreSQL, Redis |
+| **Location** | Karachi, Pakistan (UTC+5) — Open to Global Remote |
+| **Integrations** | QuickBooks, Stripe, PayPal, Webhooks, n8n |
 
 ---
 
